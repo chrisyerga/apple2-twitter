@@ -14,6 +14,18 @@ At this point there should be enough info and working code for a motivated indiv
 to get their own Apple II Twitter Display up and running. It's mostly cleanup and
 better documentation that's lacking now.
 
+# Maker Faire
+
+People who came by my booth at Maker Faire were able to
+tweet about my project. When they did, their tweets were
+displayed on the Apple ][ live and I generated a mosaic
+of all the folks who did so.
+
+You can see below the LORES and HIRES versions of their
+Twitter profile pictures:
+
+![Alt text](mosaic.jpg)
+
 # Examples
 
 ![tweet1](https://atomsandelectrons.com/files/blog/wp-content/images/img_2227.jpg "nycResistor")
